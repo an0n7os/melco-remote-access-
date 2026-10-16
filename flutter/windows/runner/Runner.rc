@@ -94,7 +94,7 @@ BEGIN
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "melco" "\0"
             VALUE "LegalCopyright", "Copyright © 2026 MELCO. All rights reserved." "\0"
-            VALUE "OriginalFilename", "rustdesk.exe" "\0"
+            VALUE "OriginalFilename", "melco.exe" "\0"
             VALUE "ProductName", "MELCO" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
